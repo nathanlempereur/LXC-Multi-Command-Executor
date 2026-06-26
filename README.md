@@ -24,7 +24,6 @@ Idéal pour les administrateurs système et les passionnés d'auto-hébergement 
 
 1. Clonez ce dépôt ou téléchargez le script :
    git clone https://github.com/nathanlempereur/LXC-Multi-Command-Executor
-   cd lxc-commander
 
 2. Rendez le script exécutable :
    chmod +x lxc-commander.sh
