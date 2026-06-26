@@ -47,10 +47,14 @@ Vérifier l'uptime de tous les conteneurs :
 
 <img width="806" height="747" alt="image" src="https://github.com/user-attachments/assets/ce874b1d-ad39-4ac9-be53-292981a534a7" />
 
-## Contribution
+## Contribution & Licence
 
-Les contributions, les problèmes (issues) et les demandes d'ajout de fonctionnalités (pull requests) sont les bienvenus ! N'hésitez pas à consulter la page des issues.
+Ce script est **open-source**. Vous pouvez le modifier et proposer des améliorations via des **Pull Requests**.
 
-## Licence
+**Licence** : Ce projet est sous licence libre. 
+**Contact** : contact@nlempereur.ovh
 
-Ce projet est libre de droit.
+## Contact
+- Email : **contact@nlempereur.ovh**
+- Site web : https://nlempereur.ovh/contact.php
+
